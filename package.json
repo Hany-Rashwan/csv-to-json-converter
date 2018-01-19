@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Hany-Rashwan/dirnametest/issues"
   },
-  "homepage": "https://github.com/Hany-Rashwan/dirnametest#readme"
+  "homepage": "https://github.com/Hany-Rashwan/dirnametest#readme",
+  "dependencies": {
+    "csvtojson": "^1.1.9"
+  }
 }

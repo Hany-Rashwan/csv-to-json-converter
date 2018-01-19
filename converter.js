@@ -1,4 +1,4 @@
-const csvFilePath = 'customer-data.csv'
+const csvFilePath = './data/customer-data.csv'
 const fs = require('fs')
 const csv = require('csvtojson')
 let arr = []
